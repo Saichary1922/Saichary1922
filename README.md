@@ -23,7 +23,7 @@
 🧠  Currently exploring **Pandas, NumPy, Matplotlib, Seaborn, and Power BI**.\
 💡 Open to collaborate on **data analytics and automation projects**.\
 🚀 Always curious, always learning — from building APIs to training AI models!.\
-📫 Reach me at **laxmankonukati93@gmail.com**!
+📫 Reach me at **mallojusaikumarchary1902@gmail.com**!
 
 ---
 ## 🚀 **Tech Stack:**
