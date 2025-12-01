@@ -8,8 +8,8 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/laxman-konukati-6856092a5/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/KonukatiLaxman)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:laxmankonukati@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Saichary1922)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:mallojusaikumarchary1902@gmail.com)
 
 </div>
 
@@ -85,7 +85,6 @@
 | Role | Organization | Duration |
 |------|---------------|-----------|
 | 📊 **Junior Analyist Intern** | Vangrove Tech | Nov 2025 – Present |
-| 👨‍💻 **Java Developer Intern** | Elevate Labs | Sep 2025 – Nov 2025 |
 
 ---
 ### 🧠 Data Analytics Skills
@@ -100,40 +99,34 @@
 ---
 ### 🏆 Achievements & Certifications
 • Certification of completion of Python from Udemy.\
-💻 Certified Full Stack Java Developer - Completed training in front-end, back-end, and database technlogies to
-  build end-to-end web applications.\
-📄 Certification of ”Published research paper titled ’Silent saviour: Deep Learning Neural Network for Cyberbulling
-  Detection in Social Media’ in the International Journal of Basic and Applied Research”.\
-💻 **Java Developer Intern** (Elevate Labs | Sep 2025 – Nov 2025)
-  
 
 ---
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KonukantiLaxman&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=KonukantiLaxman&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KonukantiLaxman&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Saichary1922&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Saichary1922&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saichary1922&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
-[![](https://visitcount.itsvg.in/api?id=KonukantiLaxman&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Saichary1922&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
 
 ## 🏆 **GitHub Trophies**
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KonukantiLaxman&theme=onestar"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Saichary1922&theme=onestar"/>
 </p>
 
 ---
 
 ## 📬 **Connect With Me**
 
-📧 [laxmankonukati93@gmail.com](mailto:laxmankonukati93@gmail.com)  
-📞 [+91 7989574036](tel:+917989574036)   
+📧 [laxmankonukati93@gmail.com](mailto:mallojusaikumarchary1902@gmail.com)  
+📞 [+91 6301621475](tel:+916301621475)   
 💼 [LinkedIn](https://www.linkedin.com/in/konukati-laxman-6856092a5/)  
-🐙 [GitHub](https://github.com/KonukatiLaxman)
+🐙 [GitHub](https://github.com/Saichary1922)
 
 ---
 
