@@ -7,7 +7,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/laxman-konukati-6856092a5/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sai-kumar-chary-b227aa322)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Saichary1922)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:mallojusaikumarchary1902@gmail.com)
 
@@ -125,7 +125,7 @@
 
 📧 [laxmankonukati93@gmail.com](mailto:mallojusaikumarchary1902@gmail.com)  
 📞 [+91 6301621475](tel:+916301621475)   
-💼 [LinkedIn](https://www.linkedin.com/in/konukati-laxman-6856092a5/)  
+💼 [LinkedIn](https://www.linkedin.com/in/sai-kumar-chary-b227aa322)  
 🐙 [GitHub](https://github.com/Saichary1922)
 
 ---
